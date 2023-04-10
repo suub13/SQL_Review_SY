@@ -1,5 +1,5 @@
 # SQL_Review_SY
-SQL Review
+SY만의 Java Web
 
 1. Java 사용법
 2. Mysql 사용법
